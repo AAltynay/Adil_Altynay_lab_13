@@ -1,0 +1,17 @@
+[33mcommit c4b22c81c9acac9703a8f96cb0f408c850f69000[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-exchange-rates[m[33m)[m
+Author: Adil Altynay <AlZAdil@beeline.kz>
+Date:   Thu Sep 26 16:06:36 2024 +0500
+
+    Обновление изменений app.js
+
+[33mcommit ab95afe0e4e75dda22c63735df25e5aa40ae7a8f[m[33m ([m[1;31morigin/feature-ui-enhancements[m[33m, [m[1;31morigin/feature-exchange-rates[m[33m, [m[1;31morigin/feature-api-integration[m[33m, [m[1;32mfeature-ui-enhancements[m[33m, [m[1;32mfeature-api-integration[m[33m)[m
+Author: Adil Altynay <AlZAdil@beeline.kz>
+Date:   Thu Sep 26 15:19:09 2024 +0500
+
+    Initial commit: добавлены файлы проекта
+
+[33mcommit fafc4d3a38d4850484bf35c9dbcaa29e6e860f2a[m
+Author: Adil Altynay <AlZAdil@beeline.kz>
+Date:   Thu Sep 26 14:54:28 2024 +0500
+
+    Добавлена функция получения курсов валют
